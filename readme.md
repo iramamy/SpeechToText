@@ -4,7 +4,7 @@
 
 This project aims to transcribe audio files and cluster segments by speaker.
 
-Audio Transcription: Utilizes a pre-trained model [pyannote](https://huggingface.co/pyannote/segmentation-3.0) for diarizationand  [Whisper](https://huggingface.co/openai/whisper-large-v3) for the transcription.
+Audio Transcription: Utilizes a pre-trained model [pyannote](https://huggingface.co/pyannote/segmentation-3.0) for diarization and  [Whisper](https://huggingface.co/openai/whisper-large-v3) for the transcription.
 
 ## Data:
 The data used in the notebook isfFrom the podcast [TheComsicSavannah](https://thecosmicsavannah.com/) Episode 72.
