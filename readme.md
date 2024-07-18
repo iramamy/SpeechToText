@@ -20,7 +20,8 @@ The transcript of the audio is also available on the website, which can be used 
 - Deep learning
 
 ## Whisper paper
-`@misc{radford2022whisper,
+```
+@misc{radford2022whisper,
   doi = {10.48550/ARXIV.2212.04356},
 
   url = {https://arxiv.org/abs/2212.04356},
@@ -35,4 +36,5 @@ The transcript of the audio is also available on the website, which can be used 
 
   copyright = {arXiv.org perpetual, non-exclusive license}
 }
-`
+
+```
