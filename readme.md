@@ -1,4 +1,4 @@
-# Audio Transcription and Speaker Clustering Project
+# Audio Transcription and Speaker Clustering
 
 ## Overview
 
