@@ -1,25 +1,25 @@
-# Audio Transcription and Speaker Clustering
+# 🎧 Audio Transcription and Speaker Clustering 🔊
 
-## Overview
+## 📝 Overview
 
 This project aims to transcribe audio files and cluster segments by speaker.
 
-Audio Transcription: Utilizes a pre-trained model [pyannote](https://huggingface.co/pyannote/segmentation-3.0) for diarization and  [Whisper](https://huggingface.co/openai/whisper-large-v3) for the transcription.
+**Audio Transcription**: Utilizes a pre-trained model [pyannote](https://huggingface.co/pyannote/segmentation-3.0) for diarization and [Whisper](https://huggingface.co/openai/whisper-large-v3) for the transcription.
 
-## Data:
-The data/audio used in the notebook is from the podcast [TheComsicSavannah](https://thecosmicsavannah.com/) Episode 72.
-The transcript of the audio is also available on the website, which can be used to compare the transcription accuracy obtained from Whisper.
+## 📂 Data
 
-## Tags
-- Huggingface
-- Speech to text
-- Audio processing
-- Speaker diarization
-- Machine learning
-- Natural language processing
-- Deep learning
+The data/audio used in the notebook is from the podcast [The Cosmic Savannah](https://thecosmicsavannah.com/) Episode 72. The transcript of the audio is also available on the website, which can be used to compare the transcription accuracy obtained from Whisper.
 
-## Whisper paper
+## 🏷️ Tags
+- 🤗 **Huggingface**
+- 🎙️ **Speech to Text**
+- 🎧 **Audio Processing**
+- 🗣️ **Speaker Diarization**
+- 📈 **Machine Learning**
+- 🧠 **Natural Language Processing**
+- 🔍 **Deep Learning**
+
+## 📜 Whisper Paper
 ```
 @misc{radford2022whisper,
   doi = {10.48550/ARXIV.2212.04356},
